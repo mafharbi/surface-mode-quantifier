@@ -28,7 +28,7 @@ If the toolbox is not installed, you can install it through MATLAB's Add-On Expl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SurfaceModeQuantifier.git
+   git clone https://github.com/mafharbi/SurfaceModeQuantifier.git
    ```
    
 2. **Or download directly:**
