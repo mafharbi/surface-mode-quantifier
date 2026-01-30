@@ -28,7 +28,7 @@ If the toolbox is not installed, you can install it through MATLAB's Add-On Expl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mafharbi/SurfaceModeQuantifier.git
+   git clone https://github.com/mafharbi/surface-mode-quantifier.git
    ```
    
 2. **Or download directly:**
@@ -110,7 +110,7 @@ Mohammed Alharbi
 2. **Application doesn't start**
    - Verify you have MATLAB R2018b or later
    - Ensure the Image Processing Toolbox is installed
-   - Check that you're in the correct directory containing `app1.m`
+   - Check that you're in the correct directory containing `SurfaceModeQuantifier.m`
 
 3. **"Undefined function" errors**
    - Install the Image Processing Toolbox
